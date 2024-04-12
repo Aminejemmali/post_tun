@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome to Post Tun",
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "invalidEmailPassword": "Invalid email or password. Please try again.",
+  "loginError": "Could not connect to the database. Please try again later.",
+  "dontHaveAccount": "Don't have an account?",
+  "invalidEmail": "Please enter a valid email",
+  "enterPassword": "Please enter your password",
+  "moreLanguages": "More Languages",
+  "Home": "Home",
+  "Settings": "Settings",
+  "Logout": "Logout",
+  "hiUser": "Hi",
+  "Pay facture": "Pay facture",
+  "Tracking parcel": "Tracking parcel",
+  "Check account balance": "Check account balance",
+  "Live support": "Live support",
+  "welcomeToPostTunServices": "Welcome to Post Tun Services"
+}
